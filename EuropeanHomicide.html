@@ -11,7 +11,6 @@
 
 <meta name="author" content="Adela Sobotkova" />
 
-<meta name="date" content="2021-10-04" />
 
 <title>Are we more civilized today?</title>
 
@@ -375,7 +374,7 @@ summary {
 
 <h1 class="title toc-ignore">Are we more civilized today?</h1>
 <h4 class="author">Adela Sobotkova</h4>
-<h4 class="date">4 October 2021</h4>
+<h4 class="date">created 4 October 2021, updated …</h4>
 
 </div>
 
@@ -390,12 +389,12 @@ summary {
 <p>In the 1300s, homicide rates in Western Europe ranged from 23 to 56 homicides per 100,000 individuals, comparable to the current rates in Latin America. Homicide rates then fell dramatically in all five regions from the 1300s to 1800s. The magnitude of this decline was similar across countries: homicide rates fell between 78 and 98%.</p>
 <p>Homicide rates in Europe today are much lower than in the past. England, Germany, Switzerland, and Italy reached their lowest levels in the 2000s; while the Netherlands, Belgium, and Scandinavia reached their minimums in the mid to late 1900s.</p>
 <pre class="r"><code>library(tidyverse)</code></pre>
-<pre><code>## -- Attaching packages ----------------------------------------------------- tidyverse 1.3.0 --</code></pre>
+<pre><code>## -- Attaching packages ------------------------------------------------------ tidyverse 1.3.0 --</code></pre>
 <pre><code>## v ggplot2 3.3.2     v purrr   0.3.4
 ## v tibble  3.0.3     v dplyr   1.0.2
 ## v tidyr   1.1.2     v stringr 1.4.0
 ## v readr   1.3.1     v forcats 0.5.0</code></pre>
-<pre><code>## -- Conflicts -------------------------------------------------------- tidyverse_conflicts() --
+<pre><code>## -- Conflicts --------------------------------------------------------- tidyverse_conflicts() --
 ## x dplyr::filter() masks stats::filter()
 ## x dplyr::lag()    masks stats::lag()</code></pre>
 </div>
@@ -455,6 +454,7 @@ summary {
 <li><p>The facet is great, but geom_point(scatterplot) is not the best choice for showing long-term data. Can you create other type of visualisation for a long-term trend?</p></li>
 <li><p>Can you change the facet layout to two columns and three rows so that the trends are more visible?</p></li>
 <li><p>Move the legend from the current position on the side to below the facets, and label it “Country” instead of “Entity”.</p></li>
+<li><p>Add a floating table of contents to your Rmarkdown document, provide informative chunk-names to all your R chunks, and automatically generate a timestamp to show when the document was last updated.</p></li>
 </ol>
 </div>
 

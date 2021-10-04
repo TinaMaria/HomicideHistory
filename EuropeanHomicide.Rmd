@@ -1,7 +1,7 @@
 ---
 title: "Are we more civilized today?"
 author: "Adela Sobotkova"
-date: "4 October 2021"
+date: " created 4 October 2021, updated ..."
 output: html_document
 ---
 
@@ -84,4 +84,6 @@ ggplot(data = Western_Europe) +
 3) Can you change the facet layout to two columns and three rows so that the trends are more visible? 
 
 4) Move the legend from the current position on the side to below the facets, and label it "Country" instead of "Entity".
+
+5) Add a floating table of contents to your Rmarkdown document, provide informative chunk-names to all your R chunks, and automatically generate a timestamp to show when the document was last updated. 
 
