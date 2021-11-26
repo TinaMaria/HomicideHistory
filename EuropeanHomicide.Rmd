@@ -24,7 +24,7 @@ In the 1300s, homicide rates in Western Europe ranged from 23 to 56 homicides pe
 
 Homicide rates in Europe today are much lower than in the past. England, Germany, Switzerland, and Italy reached their lowest levels in the 2000s; while the Netherlands, Belgium, and Scandinavia reached their minimums in the mid to late 1900s.
 
-```{r}
+```{r library}
 library(tidyverse)
 ```
 
@@ -32,7 +32,7 @@ library(tidyverse)
 
 You should always interrogate the source of your data. Who compiled it, from where, what is missing, how representative the data are? Check the data/Metadata document to learn about the data provenance.
 
-```{r}
+```{r data}
 Western_Europe <- read_csv("data/homicide-rates-across-western-europe.csv")
 ```
 
@@ -40,7 +40,7 @@ Western_Europe <- read_csv("data/homicide-rates-across-western-europe.csv")
 
 How clean and analysis-ready is the dataset? Do you understand what the column names represent? What is the difference between rate and homicide number?
 
-```{r}
+```{r inspect}
 head(Western_Europe)
 ```
 
@@ -49,7 +49,7 @@ Note that the `echo = FALSE` parameter can be added to the code chunk to prevent
 Now, that you have looked at what the data looks like and what it represents, let's see what big picture it contains.
 
 ## Let's see what the long-term trend is
-```{r}
+```{r }
 ggplot(data = Western_Europe) + 
   geom_point(mapping = aes(x = Year, 
                            y = Western_Europe$`Homicide rate in Europe over long-term (per 100,000) (homicides per 100,000 people)`, 
@@ -62,7 +62,7 @@ Alright, the homicide rates are all descending over time. What a comfort. But th
 
 ## Let's uncouple for easier view of individual countries
 
-```{r}
+```{r }
 ggplot(data = Western_Europe) + 
   geom_point(mapping = aes(x = Year, 
                            y = Western_Europe$`Homicide rate in Europe over long-term (per 100,000) (homicides per 100,000 people)`, 
@@ -77,13 +77,14 @@ ggplot(data = Western_Europe) +
 
 **Your Tasks:**
 
-1) the column name Western_Europe$`Homicide rate in Europe over long-term (per 100,000) is not very easy to work with. Relabel it to 'homicides' for easier use in the ggplots.
+1) the column name Western_Europe$`Homicide rate in Europe over long-term (per 100,000) is not very easy to work with. Relabel it to 'homicides_per_100k' inside R after loading the dataset and then edit all the ggplots.
 
-2) The facet is great, but geom_point(scatterplot) is not the best choice for showing long-term data. Can you create other type of visualisation for a long-term trend? 
+2) The basic plot and following facet-plot (combination plot) is great, but geom_point - a scatterplot - is not the best choice for showing long-term data. Can you change both plots to more suitable type of rendering? 
 
-3) Can you change the facet layout to two columns and three rows so that the trends are more visible? 
+3) Can you change the facet "layout" to two columns and three rows so that the trends are easier to see? 
 
 4) Move the legend from the current position on the side to below the facets, and label it "Country" instead of "Entity".
 
-5) Add a floating table of contents to your Rmarkdown document, provide informative chunk-names to all your R chunks, and automatically generate a timestamp to show when the document was last updated. 
+5) Add a floating table of contents to your Rmarkdown document, provide informative chunk-names to all your R chunks, and automatically generate a timestamp to show when the document was last updated. (Hint: check the Rmarkdown episode in our Data Carpentry tutorial)
 
+6) Comment briefly what is your opinion on the basis of the data visualisation: are we more civilized today?
