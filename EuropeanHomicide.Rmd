@@ -48,7 +48,7 @@ Note that the `echo = FALSE` parameter can be added to the code chunk to prevent
 
 Now, that you have looked at what the data looks like and what it represents, let's see what big picture it contains.
 
-## Let's see what the long-term trend is
+## Let's see what the long-term trend is in homicides
 ```{r }
 ggplot(data = Western_Europe) + 
   geom_point(mapping = aes(x = Year, 
@@ -60,7 +60,7 @@ ggplot(data = Western_Europe) +
 ```
 Alright, the homicide rates are all descending over time. What a comfort. But the viz is not super clear. Let's check the rates for individual countries.
 
-## Let's uncouple for easier view of individual countries
+## Let's uncouple the homicides for easier view of individual countries
 
 ```{r }
 ggplot(data = Western_Europe) + 
@@ -72,6 +72,12 @@ ggplot(data = Western_Europe) +
        y = "Homicides per 100,000",
        title = "Homicide rate in Western Europe from 1300-2000")
 
+```
+
+## Let's cross-check the trends in homicide with the pattern of reign duration among Danish rulers through time
+
+```{r}
+# YOUR CODE HERE:
 ```
 
 
@@ -87,4 +93,6 @@ ggplot(data = Western_Europe) +
 
 5) Add a floating table of contents to your Rmarkdown document, provide informative chunk-names to all your R chunks, and automatically generate a timestamp to show when the document was last updated. (Hint: check the Rmarkdown episode in our Data Carpentry tutorial)
 
-6) Comment briefly what is your opinion on the basis of the data visualisation: are we more civilized today?
+6) Fill in the empty code chunk with a ggplot of your Danish kings: loading the data, calculating the mid-year, and plotting the duration of reign (y axis) over the mid-year  (x axis), using geom_smooth()
+
+7) Comment briefly what is your opinion on the basis of the data visualisations: are we more civilized today?
