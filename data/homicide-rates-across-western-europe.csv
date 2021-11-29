@@ -1,4 +1,4 @@
-Entity,Code,Year,"Homicide rate in Europe over long-term (per 100,000) (homicides per 100,000 people)"
+Entity,Code,Year,"homicides_per_100k"
 England,,1300,23
 England,,1550,7
 England,,1625,6
