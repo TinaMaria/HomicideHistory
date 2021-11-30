@@ -1,207 +1,207 @@
-﻿Entity;Code;Year;homicides_per_100k
-England;n/a;1300;23.0
-England;n/a;1550;7.0
-England;n/a;1625;6.0
-England;n/a;1675;4.0
-England;n/a;1725;2.0
-England;n/a;1775;1.0
-England;n/a;1812;2.0
-England;n/a;1837;1.7
-England;n/a;1862;1.6
-England;n/a;1887;0.8
-England;n/a;1912;0.8
-England;n/a;1937;0.8
-England;n/a;1962;0.7
-England;n/a;1984;1.2
-England;n/a;1990;0.9
-England;n/a;1991;0.9
-England;n/a;1992;0.9
-England;n/a;1993;0.9
-England;n/a;1994;0.9
-England;n/a;1995;0.8
-England;n/a;1996;0.8
-England;n/a;1997;0.7
-England;n/a;1998;0.7
-England;n/a;1999;0.7
-England;n/a;2000;0.7
-England;n/a;2001;0.7
-England;n/a;2002;0.7
-England;n/a;2003;0.7
-England;n/a;2004;0.7
-England;n/a;2005;0.7
-England;n/a;2006;0.7
-England;n/a;2007;0.6
-England;n/a;2008;0.6
-England;n/a;2009;0.6
-England;n/a;2010;0.6
-England;n/a;2011;0.6
-England;n/a;2012;0.6
-England;n/a;2013;0.5
-England;n/a;2014;0.5
-England;n/a;2015;0.5
-England;n/a;2016;0.5
-Germany and Switzerland;n/a;1300;37.0
-Germany and Switzerland;n/a;1450;16.0
-Germany and Switzerland;n/a;1550;11.0
-Germany and Switzerland;n/a;1625;11.0
-Germany and Switzerland;n/a;1675;3.0
-Germany and Switzerland;n/a;1725;7.0
-Germany and Switzerland;n/a;1775;8.0
-Germany and Switzerland;n/a;1812;3.0
-Germany and Switzerland;n/a;1837;4.0
-Germany and Switzerland;n/a;1862;2.0
-Germany and Switzerland;n/a;1887;2.2
-Germany and Switzerland;n/a;1912;2.0
-Germany and Switzerland;n/a;1937;1.4
-Germany and Switzerland;n/a;1962;0.9
-Germany and Switzerland;n/a;1984;1.2
-Germany and Switzerland;n/a;1990;1.5
-Germany and Switzerland;n/a;1991;1.5
-Germany and Switzerland;n/a;1992;1.5
-Germany and Switzerland;n/a;1993;1.5
-Germany and Switzerland;n/a;1994;1.5
-Germany and Switzerland;n/a;1995;1.4
-Germany and Switzerland;n/a;1996;1.4
-Germany and Switzerland;n/a;1997;1.3
-Germany and Switzerland;n/a;1998;1.3
-Germany and Switzerland;n/a;1999;1.3
-Germany and Switzerland;n/a;2000;1.2
-Germany and Switzerland;n/a;2001;1.2
-Germany and Switzerland;n/a;2002;1.2
-Germany and Switzerland;n/a;2003;1.1
-Germany and Switzerland;n/a;2004;1.1
-Germany and Switzerland;n/a;2005;1.0
-Germany and Switzerland;n/a;2006;1.0
-Germany and Switzerland;n/a;2007;1.0
-Germany and Switzerland;n/a;2008;0.9
-Germany and Switzerland;n/a;2009;0.9
-Germany and Switzerland;n/a;2010;0.9
-Germany and Switzerland;n/a;2011;0.9
-Germany and Switzerland;n/a;2012;0.8
-Germany and Switzerland;n/a;2013;0.8
-Germany and Switzerland;n/a;2014;0.8
-Germany and Switzerland;n/a;2015;0.8
-Germany and Switzerland;n/a;2016;0.8
-Italy;ITA;1300;56.0
-Italy;ITA;1450;73.0
-Italy;ITA;1550;47.0
-Italy;ITA;1625;32.0
-Italy;ITA;1725;12.0
-Italy;ITA;1775;9.0
-Italy;ITA;1812;18.0
-Italy;ITA;1837;15.0
-Italy;ITA;1862;12.0
-Italy;ITA;1887;5.5
-Italy;ITA;1912;3.9
-Italy;ITA;1937;2.6
-Italy;ITA;1962;1.3
-Italy;ITA;1984;1.7
-Italy;ITA;1990;1.9
-Italy;ITA;1991;1.9
-Italy;ITA;1992;1.8
-Italy;ITA;1993;1.7
-Italy;ITA;1994;1.6
-Italy;ITA;1995;1.6
-Italy;ITA;1996;1.5
-Italy;ITA;1997;1.4
-Italy;ITA;1998;1.4
-Italy;ITA;1999;1.3
-Italy;ITA;2000;1.3
-Italy;ITA;2001;1.2
-Italy;ITA;2002;1.2
-Italy;ITA;2003;1.1
-Italy;ITA;2004;1.1
-Italy;ITA;2005;1.1
-Italy;ITA;2006;1.0
-Italy;ITA;2007;1.0
-Italy;ITA;2008;1.0
-Italy;ITA;2009;1.0
-Italy;ITA;2010;0.9
-Italy;ITA;2011;0.9
-Italy;ITA;2012;0.9
-Italy;ITA;2013;0.9
-Italy;ITA;2014;0.9
-Italy;ITA;2015;0.9
-Italy;ITA;2016;0.9
-Netherlands and Belgium;n/a;1300;47.0
-Netherlands and Belgium;n/a;1450;45.0
-Netherlands and Belgium;n/a;1550;25.0
-Netherlands and Belgium;n/a;1625;6.0
-Netherlands and Belgium;n/a;1675;9.0
-Netherlands and Belgium;n/a;1725;7.0
-Netherlands and Belgium;n/a;1775;4.0
-Netherlands and Belgium;n/a;1812;2.0
-Netherlands and Belgium;n/a;1862;0.9
-Netherlands and Belgium;n/a;1887;1.5
-Netherlands and Belgium;n/a;1912;1.7
-Netherlands and Belgium;n/a;1937;1.3
-Netherlands and Belgium;n/a;1962;0.6
-Netherlands and Belgium;n/a;1984;1.2
-Netherlands and Belgium;n/a;1990;1.7
-Netherlands and Belgium;n/a;1991;1.7
-Netherlands and Belgium;n/a;1992;1.7
-Netherlands and Belgium;n/a;1993;1.8
-Netherlands and Belgium;n/a;1994;1.8
-Netherlands and Belgium;n/a;1995;1.8
-Netherlands and Belgium;n/a;1996;1.8
-Netherlands and Belgium;n/a;1997;1.8
-Netherlands and Belgium;n/a;1998;1.8
-Netherlands and Belgium;n/a;1999;1.8
-Netherlands and Belgium;n/a;2000;1.7
-Netherlands and Belgium;n/a;2001;1.7
-Netherlands and Belgium;n/a;2002;1.7
-Netherlands and Belgium;n/a;2003;1.6
-Netherlands and Belgium;n/a;2004;1.5
-Netherlands and Belgium;n/a;2005;1.4
-Netherlands and Belgium;n/a;2006;1.4
-Netherlands and Belgium;n/a;2007;1.3
-Netherlands and Belgium;n/a;2008;1.3
-Netherlands and Belgium;n/a;2009;1.3
-Netherlands and Belgium;n/a;2010;1.2
-Netherlands and Belgium;n/a;2011;1.2
-Netherlands and Belgium;n/a;2012;1.2
-Netherlands and Belgium;n/a;2013;1.2
-Netherlands and Belgium;n/a;2014;1.1
-Netherlands and Belgium;n/a;2015;1.1
-Netherlands and Belgium;n/a;2016;1.1
-Scandinavia;n/a;1450;46.0
-Scandinavia;n/a;1550;21.0
-Scandinavia;n/a;1625;24.0
-Scandinavia;n/a;1675;12.0
-Scandinavia;n/a;1725;3.0
-Scandinavia;n/a;1775;0.7
-Scandinavia;n/a;1812;1.0
-Scandinavia;n/a;1837;1.4
-Scandinavia;n/a;1862;1.2
-Scandinavia;n/a;1887;0.9
-Scandinavia;n/a;1912;0.8
-Scandinavia;n/a;1937;0.6
-Scandinavia;n/a;1962;0.6
-Scandinavia;n/a;1984;1.2
-Scandinavia;n/a;1990;1.8
-Scandinavia;n/a;1991;1.8
-Scandinavia;n/a;1992;1.7
-Scandinavia;n/a;1993;1.7
-Scandinavia;n/a;1994;1.7
-Scandinavia;n/a;1995;1.6
-Scandinavia;n/a;1996;1.6
-Scandinavia;n/a;1997;1.6
-Scandinavia;n/a;1998;1.6
-Scandinavia;n/a;1999;1.5
-Scandinavia;n/a;2000;1.5
-Scandinavia;n/a;2001;1.5
-Scandinavia;n/a;2002;1.4
-Scandinavia;n/a;2003;1.4
-Scandinavia;n/a;2004;1.4
-Scandinavia;n/a;2005;1.3
-Scandinavia;n/a;2006;1.3
-Scandinavia;n/a;2007;1.3
-Scandinavia;n/a;2008;1.2
-Scandinavia;n/a;2009;1.2
-Scandinavia;n/a;2010;1.2
-Scandinavia;n/a;2011;1.1
-Scandinavia;n/a;2012;1.1
-Scandinavia;n/a;2013;1.0
-Scandinavia;n/a;2014;1.0
-Scandinavia;n/a;2015;1.0
-Scandinavia;n/a;2016;1.0
+﻿Entity;Code;Year;homicides_per_mio.people
+England;n/a;1300;230
+England;n/a;1550;70
+England;n/a;1625;60
+England;n/a;1675;40
+England;n/a;1725;20
+England;n/a;1775;10
+England;n/a;1812;20
+England;n/a;1837;17
+England;n/a;1862;16
+England;n/a;1887;8
+England;n/a;1912;8
+England;n/a;1937;8
+England;n/a;1962;7
+England;n/a;1984;12
+England;n/a;1990;9
+England;n/a;1991;9
+England;n/a;1992;9
+England;n/a;1993;9
+England;n/a;1994;9
+England;n/a;1995;8
+England;n/a;1996;8
+England;n/a;1997;7
+England;n/a;1998;7
+England;n/a;1999;7
+England;n/a;2000;7
+England;n/a;2001;7
+England;n/a;2002;7
+England;n/a;2003;7
+England;n/a;2004;7
+England;n/a;2005;7
+England;n/a;2006;7
+England;n/a;2007;6
+England;n/a;2008;6
+England;n/a;2009;6
+England;n/a;2010;6
+England;n/a;2011;6
+England;n/a;2012;6
+England;n/a;2013;5
+England;n/a;2014;5
+England;n/a;2015;5
+England;n/a;2016;5
+Germany and Switzerland;n/a;1300;370
+Germany and Switzerland;n/a;1450;160
+Germany and Switzerland;n/a;1550;110
+Germany and Switzerland;n/a;1625;110
+Germany and Switzerland;n/a;1675;30
+Germany and Switzerland;n/a;1725;70
+Germany and Switzerland;n/a;1775;80
+Germany and Switzerland;n/a;1812;30
+Germany and Switzerland;n/a;1837;40
+Germany and Switzerland;n/a;1862;20
+Germany and Switzerland;n/a;1887;22
+Germany and Switzerland;n/a;1912;20
+Germany and Switzerland;n/a;1937;14
+Germany and Switzerland;n/a;1962;9
+Germany and Switzerland;n/a;1984;12
+Germany and Switzerland;n/a;1990;15
+Germany and Switzerland;n/a;1991;15
+Germany and Switzerland;n/a;1992;15
+Germany and Switzerland;n/a;1993;15
+Germany and Switzerland;n/a;1994;15
+Germany and Switzerland;n/a;1995;14
+Germany and Switzerland;n/a;1996;14
+Germany and Switzerland;n/a;1997;13
+Germany and Switzerland;n/a;1998;13
+Germany and Switzerland;n/a;1999;13
+Germany and Switzerland;n/a;2000;12
+Germany and Switzerland;n/a;2001;12
+Germany and Switzerland;n/a;2002;12
+Germany and Switzerland;n/a;2003;11
+Germany and Switzerland;n/a;2004;11
+Germany and Switzerland;n/a;2005;10
+Germany and Switzerland;n/a;2006;10
+Germany and Switzerland;n/a;2007;10
+Germany and Switzerland;n/a;2008;9
+Germany and Switzerland;n/a;2009;9
+Germany and Switzerland;n/a;2010;9
+Germany and Switzerland;n/a;2011;9
+Germany and Switzerland;n/a;2012;8
+Germany and Switzerland;n/a;2013;8
+Germany and Switzerland;n/a;2014;8
+Germany and Switzerland;n/a;2015;8
+Germany and Switzerland;n/a;2016;8
+Italy;ITA;1300;560
+Italy;ITA;1450;730
+Italy;ITA;1550;470
+Italy;ITA;1625;320
+Italy;ITA;1725;120
+Italy;ITA;1775;90
+Italy;ITA;1812;180
+Italy;ITA;1837;150
+Italy;ITA;1862;120
+Italy;ITA;1887;55
+Italy;ITA;1912;39
+Italy;ITA;1937;26
+Italy;ITA;1962;13
+Italy;ITA;1984;17
+Italy;ITA;1990;19
+Italy;ITA;1991;19
+Italy;ITA;1992;18
+Italy;ITA;1993;17
+Italy;ITA;1994;16
+Italy;ITA;1995;16
+Italy;ITA;1996;15
+Italy;ITA;1997;14
+Italy;ITA;1998;14
+Italy;ITA;1999;13
+Italy;ITA;2000;13
+Italy;ITA;2001;12
+Italy;ITA;2002;12
+Italy;ITA;2003;11
+Italy;ITA;2004;11
+Italy;ITA;2005;11
+Italy;ITA;2006;10
+Italy;ITA;2007;10
+Italy;ITA;2008;10
+Italy;ITA;2009;10
+Italy;ITA;2010;9
+Italy;ITA;2011;9
+Italy;ITA;2012;9
+Italy;ITA;2013;9
+Italy;ITA;2014;9
+Italy;ITA;2015;9
+Italy;ITA;2016;9
+Netherlands and Belgium;n/a;1300;470
+Netherlands and Belgium;n/a;1450;450
+Netherlands and Belgium;n/a;1550;250
+Netherlands and Belgium;n/a;1625;60
+Netherlands and Belgium;n/a;1675;90
+Netherlands and Belgium;n/a;1725;70
+Netherlands and Belgium;n/a;1775;40
+Netherlands and Belgium;n/a;1812;20
+Netherlands and Belgium;n/a;1862;9
+Netherlands and Belgium;n/a;1887;15
+Netherlands and Belgium;n/a;1912;17
+Netherlands and Belgium;n/a;1937;13
+Netherlands and Belgium;n/a;1962;6
+Netherlands and Belgium;n/a;1984;12
+Netherlands and Belgium;n/a;1990;17
+Netherlands and Belgium;n/a;1991;17
+Netherlands and Belgium;n/a;1992;17
+Netherlands and Belgium;n/a;1993;18
+Netherlands and Belgium;n/a;1994;18
+Netherlands and Belgium;n/a;1995;18
+Netherlands and Belgium;n/a;1996;18
+Netherlands and Belgium;n/a;1997;18
+Netherlands and Belgium;n/a;1998;18
+Netherlands and Belgium;n/a;1999;18
+Netherlands and Belgium;n/a;2000;17
+Netherlands and Belgium;n/a;2001;17
+Netherlands and Belgium;n/a;2002;17
+Netherlands and Belgium;n/a;2003;16
+Netherlands and Belgium;n/a;2004;15
+Netherlands and Belgium;n/a;2005;14
+Netherlands and Belgium;n/a;2006;14
+Netherlands and Belgium;n/a;2007;13
+Netherlands and Belgium;n/a;2008;13
+Netherlands and Belgium;n/a;2009;13
+Netherlands and Belgium;n/a;2010;12
+Netherlands and Belgium;n/a;2011;12
+Netherlands and Belgium;n/a;2012;12
+Netherlands and Belgium;n/a;2013;12
+Netherlands and Belgium;n/a;2014;11
+Netherlands and Belgium;n/a;2015;11
+Netherlands and Belgium;n/a;2016;11
+Scandinavia;n/a;1450;460
+Scandinavia;n/a;1550;210
+Scandinavia;n/a;1625;240
+Scandinavia;n/a;1675;120
+Scandinavia;n/a;1725;30
+Scandinavia;n/a;1775;7
+Scandinavia;n/a;1812;10
+Scandinavia;n/a;1837;14
+Scandinavia;n/a;1862;12
+Scandinavia;n/a;1887;9
+Scandinavia;n/a;1912;8
+Scandinavia;n/a;1937;6
+Scandinavia;n/a;1962;6
+Scandinavia;n/a;1984;12
+Scandinavia;n/a;1990;18
+Scandinavia;n/a;1991;18
+Scandinavia;n/a;1992;17
+Scandinavia;n/a;1993;17
+Scandinavia;n/a;1994;17
+Scandinavia;n/a;1995;16
+Scandinavia;n/a;1996;16
+Scandinavia;n/a;1997;16
+Scandinavia;n/a;1998;16
+Scandinavia;n/a;1999;15
+Scandinavia;n/a;2000;15
+Scandinavia;n/a;2001;15
+Scandinavia;n/a;2002;14
+Scandinavia;n/a;2003;14
+Scandinavia;n/a;2004;14
+Scandinavia;n/a;2005;13
+Scandinavia;n/a;2006;13
+Scandinavia;n/a;2007;13
+Scandinavia;n/a;2008;12
+Scandinavia;n/a;2009;12
+Scandinavia;n/a;2010;12
+Scandinavia;n/a;2011;11
+Scandinavia;n/a;2012;11
+Scandinavia;n/a;2013;10
+Scandinavia;n/a;2014;10
+Scandinavia;n/a;2015;10
+Scandinavia;n/a;2016;10
