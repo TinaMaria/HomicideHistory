@@ -40,18 +40,18 @@ England;n/a;2013;0.5
 England;n/a;2014;0.5
 England;n/a;2015;0.5
 England;n/a;2016;0.5
-Germany and Switzerland;n/a;1300;37
-Germany and Switzerland;n/a;1450;16
-Germany and Switzerland;n/a;1550;11
-Germany and Switzerland;n/a;1625;11
-Germany and Switzerland;n/a;1675;3
-Germany and Switzerland;n/a;1725;7
-Germany and Switzerland;n/a;1775;8
-Germany and Switzerland;n/a;1812;3
-Germany and Switzerland;n/a;1837;4
-Germany and Switzerland;n/a;1862;2
+Germany and Switzerland;n/a;1300;37.0
+Germany and Switzerland;n/a;1450;16.0
+Germany and Switzerland;n/a;1550;11.0
+Germany and Switzerland;n/a;1625;11.0
+Germany and Switzerland;n/a;1675;3.0
+Germany and Switzerland;n/a;1725;7.0
+Germany and Switzerland;n/a;1775;8.0
+Germany and Switzerland;n/a;1812;3.0
+Germany and Switzerland;n/a;1837;4.0
+Germany and Switzerland;n/a;1862;2.0
 Germany and Switzerland;n/a;1887;2.2
-Germany and Switzerland;n/a;1912;2
+Germany and Switzerland;n/a;1912;2.0
 Germany and Switzerland;n/a;1937;1.4
 Germany and Switzerland;n/a;1962;0.9
 Germany and Switzerland;n/a;1984;1.2
@@ -70,9 +70,9 @@ Germany and Switzerland;n/a;2001;1.2
 Germany and Switzerland;n/a;2002;1.2
 Germany and Switzerland;n/a;2003;1.1
 Germany and Switzerland;n/a;2004;1.1
-Germany and Switzerland;n/a;2005;1
-Germany and Switzerland;n/a;2006;1
-Germany and Switzerland;n/a;2007;1
+Germany and Switzerland;n/a;2005;1.0
+Germany and Switzerland;n/a;2006;1.0
+Germany and Switzerland;n/a;2007;1.0
 Germany and Switzerland;n/a;2008;0.9
 Germany and Switzerland;n/a;2009;0.9
 Germany and Switzerland;n/a;2010;0.9
@@ -82,15 +82,15 @@ Germany and Switzerland;n/a;2013;0.8
 Germany and Switzerland;n/a;2014;0.8
 Germany and Switzerland;n/a;2015;0.8
 Germany and Switzerland;n/a;2016;0.8
-Italy;ITA;1300;56
-Italy;ITA;1450;73
-Italy;ITA;1550;47
-Italy;ITA;1625;32
-Italy;ITA;1725;12
-Italy;ITA;1775;9
-Italy;ITA;1812;18
-Italy;ITA;1837;15
-Italy;ITA;1862;12
+Italy;ITA;1300;56.0
+Italy;ITA;1450;73.0
+Italy;ITA;1550;47.0
+Italy;ITA;1625;32.0
+Italy;ITA;1725;12.0
+Italy;ITA;1775;9.0
+Italy;ITA;1812;18.0
+Italy;ITA;1837;15.0
+Italy;ITA;1862;12.0
 Italy;ITA;1887;5.5
 Italy;ITA;1912;3.9
 Italy;ITA;1937;2.6
@@ -112,10 +112,10 @@ Italy;ITA;2002;1.2
 Italy;ITA;2003;1.1
 Italy;ITA;2004;1.1
 Italy;ITA;2005;1.1
-Italy;ITA;2006;1
-Italy;ITA;2007;1
-Italy;ITA;2008;1
-Italy;ITA;2009;1
+Italy;ITA;2006;1.0
+Italy;ITA;2007;1.0
+Italy;ITA;2008;1.0
+Italy;ITA;2009;1.0
 Italy;ITA;2010;0.9
 Italy;ITA;2011;0.9
 Italy;ITA;2012;0.9
@@ -123,14 +123,14 @@ Italy;ITA;2013;0.9
 Italy;ITA;2014;0.9
 Italy;ITA;2015;0.9
 Italy;ITA;2016;0.9
-Netherlands and Belgium;n/a;1300;47
-Netherlands and Belgium;n/a;1450;45
-Netherlands and Belgium;n/a;1550;25
-Netherlands and Belgium;n/a;1625;6
-Netherlands and Belgium;n/a;1675;9
-Netherlands and Belgium;n/a;1725;7
-Netherlands and Belgium;n/a;1775;4
-Netherlands and Belgium;n/a;1812;2
+Netherlands and Belgium;n/a;1300;47.0
+Netherlands and Belgium;n/a;1450;45.0
+Netherlands and Belgium;n/a;1550;25.0
+Netherlands and Belgium;n/a;1625;6.0
+Netherlands and Belgium;n/a;1675;9.0
+Netherlands and Belgium;n/a;1725;7.0
+Netherlands and Belgium;n/a;1775;4.0
+Netherlands and Belgium;n/a;1812;2.0
 Netherlands and Belgium;n/a;1862;0.9
 Netherlands and Belgium;n/a;1887;1.5
 Netherlands and Belgium;n/a;1912;1.7
@@ -164,13 +164,13 @@ Netherlands and Belgium;n/a;2013;1.2
 Netherlands and Belgium;n/a;2014;1.1
 Netherlands and Belgium;n/a;2015;1.1
 Netherlands and Belgium;n/a;2016;1.1
-Scandinavia;n/a;1450;46
-Scandinavia;n/a;1550;21
-Scandinavia;n/a;1625;24
-Scandinavia;n/a;1675;12
-Scandinavia;n/a;1725;3
+Scandinavia;n/a;1450;46.0
+Scandinavia;n/a;1550;21.0
+Scandinavia;n/a;1625;24.0
+Scandinavia;n/a;1675;12.0
+Scandinavia;n/a;1725;3.0
 Scandinavia;n/a;1775;0.7
-Scandinavia;n/a;1812;1
+Scandinavia;n/a;1812;1.0
 Scandinavia;n/a;1837;1.4
 Scandinavia;n/a;1862;1.2
 Scandinavia;n/a;1887;0.9
@@ -201,7 +201,7 @@ Scandinavia;n/a;2009;1.2
 Scandinavia;n/a;2010;1.2
 Scandinavia;n/a;2011;1.1
 Scandinavia;n/a;2012;1.1
-Scandinavia;n/a;2013;1.1
-Scandinavia;n/a;2014;1.1
-Scandinavia;n/a;2015;1.1
-Scandinavia;n/a;2016;1.1
+Scandinavia;n/a;2013;1.0
+Scandinavia;n/a;2014;1.0
+Scandinavia;n/a;2015;1.0
+Scandinavia;n/a;2016;1.0
